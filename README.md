@@ -1,1 +1,1 @@
-# butterfly-nitrogen-indicator
+# Butterfly nitrogen indicator
