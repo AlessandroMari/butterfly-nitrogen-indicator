@@ -6,6 +6,7 @@ In the context of N deposition, it is crucial to develop an indicator to track t
 Here, in a three-step R-based process, we first develop a GAM model for calculating the optimal nitrogen value for butterfly species based on those available for Dutch species from Oostermeijer and Van Swaay (1998). The information on butterfly species traits and habitat specialization, adopted from Essens et al. (2017), is also included in the model implementation. In the second step, the model's predictive ability is then cross-validated on the same Dutch species for which the optimal nitrogen value is available and then comparable. Finally, the model is applied to butterfly species occurring in Western European transects to calculate their optimal nitrogen values.
 
 More practical details on how each step is implemented in R can be found in the README.md file located in the folder relative to each step.
+The complete work as my MSc thesis can be read for free at: https://drive.google.com/file/d/1H_WMqdIaqHgq6hihncuJ07aYCRgjwacu/view?usp=sharing
 
 #### Citations
 - Essens, T., Langevelde, F., Vos, R., Swaay, C., & Wallisdevries, M. (2017). Ecological determinants of butterfly vulnerability across the European continent. Journal of Insect
