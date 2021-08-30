@@ -8,6 +8,10 @@ Here, in a three-step R-based process, we first develop a GAM model for calculat
 More practical details on how each step is implemented in R will be soon found in the README.md file located in the folder relative to each step.
 The complete, but old version of the work as my MSc thesis can be read for free at: https://drive.google.com/file/d/1H_WMqdIaqHgq6hihncuJ07aYCRgjwacu/view?usp=sharing.
 
+#### Additional notes:
+- The old version of the project, which used the the principal components from Essens et al. (2017) is also left commented in the script. The new components provide a much neater separation of butterfly traits and therefore have a more significant effect as predictors of the GAM model.
+- Example data or documents is not available in the "Data" and "Documents" folder for privacy reasons. Therefore, codes are not reproducible by a github user that access this project. However, if data is needed, you can send an email to "ale_seas@libero.it" and I can deliver the request to the owner of the data. 
+
 #### Citations
 - Essens, T., Langevelde, F., Vos, R., Swaay, C., & Wallisdevries, M. (2017). Ecological determinants of butterfly vulnerability across the European continent. Journal of Insect
 42
@@ -15,8 +19,3 @@ Conservation, 1–12. https://doi.org/10.1007/s10841-017-9972-4
 - Oostermeijer, J. G. B., & Van Swaay, C. A. M. (1998). The relationship between butterflies and environmental indicator values: a tool for conservation in a changing landscape. Biological Conservation, 86(3), 271–280.
 - WallisDeVries, M. F. (2014). Linking species assemblages to environmental change: Moving beyond the specialist-generalist dichotomy. Basic and Applied Ecology, 15(4), 279–287. https://doi.org/https://doi.org/10.1016/j.baae.2014.05.001
 - WallisDeVries, M. F., & Van Swaay, C. A. M. (2017). A nitrogen index to track changes in butterfly species assemblages under nitrogen deposition. Biological Conservation, 212, 448–453.
-
-#### Additional notes:
-- The old version of the project, which used the the principal components from Essens et al. (2017) is also left commented in the script. The new components provide a much neater separation of butterfly traits and therefore have a more significant effect as predictors of the GAM model.
-- Example data or documents is not available in the "Data" and "Documents" folder for privacy reasons. Therefore, codes are not reproducible by a github user that access this project. However, if data is needed, you can send an email to "ale_seas@libero.it" and I can deliver the request to the owner of the data. 
-
