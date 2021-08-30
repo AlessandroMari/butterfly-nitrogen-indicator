@@ -14,3 +14,8 @@ The complete work as my MSc thesis can be read for free at: https://drive.google
 Conservation, 1–12. https://doi.org/10.1007/s10841-017-9972-4
 - Oostermeijer, J. G. B., & Van Swaay, C. A. M. (1998). The relationship between butterflies and environmental indicator values: a tool for conservation in a changing landscape. Biological Conservation, 86(3), 271–280.
 - WallisDeVries, M. F., & Van Swaay, C. A. M. (2017). A nitrogen index to track changes in butterfly species assemblages under nitrogen deposition. Biological Conservation, 212, 448–453.
+
+#### Additional notes:
+
+- Example data or documents is not available in the "Data" and "Documents" folder for privacy reasons. Therefore, codes are not reproducible by a github user that access this project. However, if data is needed, you can send an email to "ale_seas@libero.it" and I can deliver the request to the owner of the data. 
+
