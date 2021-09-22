@@ -168,6 +168,7 @@ cni.avg <-
 #predictors (explanatory variables)
 modgam <- gam(Nopt ~ cni_avg + s(pca1, k=4) + s(pca2, k=4) +s(pca3, k=4) + s(pca4, k=4),
                data  = cni.avg, method = "REML", select=TRUE)
+#GAM model after variable selection
 modgam_ok <- gam(Nopt ~ cni_avg + s(pca1, k=4) + s(pca3, k=4),
                  data  = cni.avg, method = "REML", select=TRUE)
 
