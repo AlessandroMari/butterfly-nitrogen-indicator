@@ -10,7 +10,7 @@ The complete, but old version of the work as my MSc thesis can be read for free 
 
 #### Additional notes:
 - The old version of the project, which used the the principal components from Essens et al. (2017) is also left commented in the script. The new components provide a much neater separation of butterfly traits and therefore have a more significant effect as predictors of the GAM model.
-- Example data or documents is not available in the "Data" and "Documents" folder for privacy reasons. Therefore, codes are not reproducible by a github user that accesses this project. However, if data is needed, you can send an email to "ale_seas@libero.it" and I can deliver the request to the owner of the data. 
+- Example data or documents is not available in the "Data" and "Documents" folder for privacy reasons. Therefore, codes are not reproducible by a github user that accesses this project. However, if data is needed, send an email to "ale_seas@libero.it" and a request to the owner of the data can be delivered. 
 
 #### Citations
 - Essens, T., Langevelde, F., Vos, R., Swaay, C., & Wallisdevries, M. (2017). Ecological determinants of butterfly vulnerability across the European continent. Journal of Insect
